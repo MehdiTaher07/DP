@@ -8,3 +8,4 @@ function gcd(x,y){
 	else
 		return gcd(x,y-x);
 }
+// Greatest Common Divisor 
