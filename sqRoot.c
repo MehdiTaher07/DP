@@ -32,3 +32,5 @@ int main()
     }
     return 0;
 }
+//Binary Search
+//https://www.ideserve.co.in/learn/square-root-of-a-number
